@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Graceyy-hue
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me graceangba32@gmail.com
 
